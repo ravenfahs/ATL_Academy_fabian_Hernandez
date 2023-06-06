@@ -1,7 +1,7 @@
 {
-  "category": "Cultura",
-  "question": "¿Qué día es hoy?",
-  "options": ["Cerveza, lima/limón, sal, chile en polvo, salsa tipo inglesa, picante", "Cerveza, lima/limón y limon", "Cerveza, sal, tabasco y lima/limón"],
+  "category": "Progración Orientada a Objetos",
+  "question": "¿Que es la programación orientada a objetos?",
+  "options": ["Es un paradigma de programación que se base en la organización de código en objetos interralacionades.", "Es un leguaje de progración especifico para desarrollar aplicaciones Web.", "Es un modelo de programación que se centra en funciones y procedimientos."],
   "answer": 0,
-  "explanation": "La michelada, originaria de México, nacida de la creatividad y el deseo de refrescar, se convirtió en una popular bebida que cautivó a los amantes de la cerveza con su combinación única de sabores y su espíritu festivo."
+  "explanation": "La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos."
 }
