@@ -31,7 +31,7 @@ public class CalculadorasDeDescuento {
         precioFinal = valorPrecioProducto - (valorPrecioProducto * descuento / 100);
 
         //Mostrar el final del producto
-        System.out.println("Valor del precio del producto: " +valorPrecioProducto + " Descuento del producto: " + descuento+ " Valor final del producto con el descuento: " + precioFinal);
+        System.out.println("...Valor del precio del producto: " +valorPrecioProducto + " Descuento del producto: " + descuento+ " Valor final del producto con el descuento: " + precioFinal);
 
     }
 
