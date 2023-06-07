@@ -24,10 +24,10 @@ public class ConversorDeMi_km {
         //Captura de datos
         System.out.println("Digitar Millas: ");
         Scanner capturaDeMillas = new Scanner(System.in);
-        millas = capturaDeMillas.nextFloat();
+        millas = capturaDeMillas.nextDouble();
 
         //Cálculo de millas a kilómetros
-        kilometro = millas*cte;
+        kilometro = millas * cte;
 
         //Mostar resultados de la conversion
         System.out.println("Millas registradas: "+ millas+ " Resultado de la conversion de millas a kilometros es: "+ kilometro+" Kms");
