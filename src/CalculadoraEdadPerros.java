@@ -27,7 +27,7 @@ public class CalculadoraEdadPerros {
         edadCanino = capturaDeEdadCanino.nextInt();
 
         //Cálculo de edad del cam (16*Ln(edadDelCam)+31)
-        edadCaninoHumanos = (float) Math.log((float) edadCanino)*16+31;
+        edadCaninoHumanos = (float) Math.log((float) edadCanino) * 16 + 31;
         //Mostar en consola el resultado del cálculo
         System.out.println("La edad del cam "+nombreCanino +" em años humanos es de: "+edadCaninoHumanos+ " aproximadamente..");
     }
